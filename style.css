@@ -28,4 +28,8 @@ li {
 
 body{
   background-color:yellowgreen;
+  background-image: url(./images/nature.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
