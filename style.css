@@ -1,1 +1,31 @@
+#top{
+    font-style: italic;
 
+}
+
+button:hover {
+    background-color: magenta;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+#guests{
+    padding-left: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+#container{
+  padding-left: 650px;
+  border-radius: 100px;
+  border-color: antiquewhite;
+   border-style: dotted;
+}
+
+body{
+  background-color:yellowgreen;
+}
